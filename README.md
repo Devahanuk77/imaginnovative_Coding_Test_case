@@ -13,6 +13,6 @@ Configure Database :- Mysql setup:-
 => Run the application by using springboot starter.
 
 => For Documentation i implemented open swagger UI.
-2. Open API url :- http://localhost:8080/swagger-ui/index.html
+=> open swagger UI [enter this url in your browser once the project is in running state] :- http://localhost:8080/swagger-ui/index.html
 
 => I implemented All the validations for json data. 
